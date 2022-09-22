@@ -12,7 +12,7 @@
 </div>
 <span><hr></span>
 Hey Everyone! <br>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from Atlanta, Ga.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> from Atlanta, Ga.
 
 - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -35,7 +35,7 @@ Languages and Tools :
 
 <span><hr></span>
 <div align="center">
-### :fire: My Stats :
+ :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meaux01&theme=dark&fire=DD2727)](https://git.io/streak-stats)
 
